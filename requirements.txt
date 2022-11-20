@@ -1,4 +1,4 @@
-﻿ad3==2.2.1
+ad3==2.2.1
 alabaster==0.7.12
 altair==4.2.0
 anaconda-client==1.7.2
